@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Shubham from India. I am First year undergrad (Computer Science Engineering) from a tier-3 college, I am an open-source enthusiast. I am a web developer, Andriod developer, and right now I am learning DevOps. When not coding, you will find me reading books and listening podcasts around history, geopolitics, tech and entrepreneurship.
+This is Shubham from India. I am First year undergrad (Computer Science Engineering) from a tier-3 college, I am an open-source enthusiast. I am a web developer, Android developer, and right now I am learning DevOps. When not coding, you will find me reading books and listening podcasts around history, geopolitics, tech and entrepreneurship.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shubham7&label=Profile%20views&color=0e75b6&style=flat" alt="1shubham7" /> </p>
 
