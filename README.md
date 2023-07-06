@@ -17,6 +17,9 @@ This is Shubham from India. I am First year undergrad (Computer Science Engineer
 
 [![1Shubham7's GitHub | Stats](https://stats.quine.sh/1Shubham7/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=1Shubham7)
 
+
+[![1Shubham7's GitHub | Languages Over Time](https://stats.quine.sh/1Shubham7/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=1Shubham7)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1shubham7&show_icons=true&locale=en&layout=compact" alt="1shubham7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1shubham7&show_icons=true&locale=en" alt="1shubham7" /></p>
