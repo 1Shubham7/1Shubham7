@@ -8,7 +8,7 @@ This is Shubham from India. I am First year undergrad (Computer Science Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/mwlite/in/shubham-singh-mahar-5a002b20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham singh mahar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-singh-5a002b20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham singh mahar" height="30" width="40" /></a>
 <a href="https://hashnode.com/@1shubham7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@1shubham7" height="30" width="40" /></a>
 </p>
 
