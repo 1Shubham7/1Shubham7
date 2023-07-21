@@ -21,5 +21,3 @@ This is Shubham from India. I am First year undergrad (Computer Science Engineer
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1shubham7&" alt="1shubham7" /></p>
 
-[![1Shubham7's GitHub | Topics Over Time](https://stats.quine.sh/1Shubham7/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=1Shubham7)
-[![1Shubham7's GitHub | Languages Over Time](https://stats.quine.sh/1Shubham7/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=1Shubham7)
