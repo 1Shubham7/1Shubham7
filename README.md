@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 This is Shubham from India, first year undergrad pursuing Bachelor's in Technology with Computer Science Engineering. I am an open-source enthusiast, web developer, Android developer, and right now I am working on DevOps. When not coding, you will find me reading books and listening podcasts around history, geopolitics, tech and entrepreneurship.
 
