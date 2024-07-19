@@ -3,7 +3,7 @@
 This is Shubham from India, second year undergrad pursuing Bachelor's in Technology with Computer Science Engineering. I am an open-source enthusiast, Golang developer, web developer and right now I am learning DevOps. When not coding, you will find me reading books and listening podcasts around history, geopolitics, tech and entrepreneurship.
 
 # 💫 About Me:
-🔭 I’m currently working as a tech writer at GeeksforGeeks. <br>👯 I’m looking to collaborate on Open-source projects <br>🤝 I’m actively looking for interships related to Golang<br>🌱 I’m currently learning technologies related to  DevOps <br>💬 Ask me about Golang, Kubernetes, Web Dev (React, Django, Figma, Gin, etc.), Java, Python and Javascript <br>⚡ Fun fact - Error 404: No fun fact found
+🔭 I am currently working as a tech writer at GeeksforGeeks. <br>👯 I’m looking to collaborate on Open-source projects <br>🤝 I’m actively looking for interships related to Golang<br>🌱 I’m currently learning technologies related to  DevOps <br>💬 Ask me about Golang, Kubernetes, Web Dev (React, Django, Figma, Gin, etc.), Java, Python and Javascript <br>⚡ Fun fact - Error 404: No fun fact found
 
 ## 🌐 Socials:
 
