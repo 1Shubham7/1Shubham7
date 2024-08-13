@@ -1,9 +1,9 @@
 # Hi there 👋
 
-This is Shubham from India, second year undergrad pursuing Bachelor's in Technology with Computer Science Engineering. I am an open-source enthusiast, Golang developer, web developer and right now I am learning DevOps. When not coding, you will find me reading books and listening podcasts around history, geopolitics, tech and entrepreneurship.
+This is Shubham from India. Second year undergrad pursuing bachelor’s in technology with Computer Science Engineering, I am an open-source enthusiast, LFX mentee for term 2 (2024) as well as I am an active contributor to the CNCF ecosystem. Currently working as a tech writing intern at GeeksforGeeks, Before this I have worked as a hugo expert intern in a startup called Hooman Digital. When not coding, I like listening podcasts and reading books around entrepreneurship, tech and geopolitics.
 
 # 💫 About Me:
-🔭 I am currently working as a tech writer at GeeksforGeeks. <br>👯 I’m looking to collaborate on Open-source projects <br>🤝 I’m actively looking for interships related to Golang<br>🌱 I’m currently learning technologies related to  DevOps <br>💬 Ask me about Golang, Kubernetes, Web Dev (React, Django, Figma, Gin, etc.)<br>⚡ Fun fact - Error 404: No fun fact found
+🔭 I am currently working as a tech writer at GeeksforGeeks. <br>👯 🤝 I’m actively looking for Golang + Kubernetes roles <br>🌱 I’m currently learning DevOps <br>💬 Ask me about Golang, Kubernetes, Web Dev (React, Django, Figma, Gin, etc.)<br>⚡ Fun fact - Error 404: No fun fact found
 
 ## 🌐 Socials:
 
