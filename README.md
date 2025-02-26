@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a third-year Computer Science Engineering undergrad with a passion for open-source, cloud-native technologies, and backend development. My primary tech stack is Golang + Kubernetes. I actively contribute to the CNCF ecosystem, I am a contributor and org member at CNCF KubeEdge, and previously a official contributor at CNCF Kyverno.
+This is Shubham, I’m a third-year Computer Science Engineering undergrad with a passion for open-source, cloud-native technologies, and backend development. My primary tech stack is Golang + Kubernetes. I actively contribute to the CNCF ecosystem, I am a contributor and org member at CNCF KubeEdge, and previously a official contributor at CNCF Kyverno.
 
 I am a LFX graduated mentee (Term 2, 2024), before that I used to work as a technical writing intern at GeeksforGeeks, and before that I worked as a web dev intern at Hooman Digital. I am Linux Foundation Scholar, Microsoft Learn Student Ambassador and KubeCon'24 Speaker. When not coding, I like listening podcasts and reading books around entrepreneurship, tech and geopolitics.
 
