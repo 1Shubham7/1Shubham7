@@ -7,9 +7,6 @@ I am a Certified Kubernetes Administrator and I am currently working as a SRE at
 
 My primary tech stack is Golang + Kubernetes. I actively contribute to the CNCF ecosystem, I am a contributor and org member at CNCF KubeEdge, and previously a official contributor at CNCF Kyverno.
 
-# 💫 About Me:
-🔭 I am currently working as a tech writer at GeeksforGeeks. <br>👯 🤝 I’m actively looking for Golang + Kubernetes roles <br>🌱 I’m currently learning DevOps <br>💬 Ask me about Golang, Kubernetes, Web Dev (Gin, React, etc.)<br>⚡ Fun fact - 404
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1shubham7) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://1shubham7.hashnode.dev/) [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/1shubham7) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@shubham7950) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/21861794)
