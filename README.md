@@ -1,9 +1,9 @@
 # Hi there 👋
 This is Shubham, 
 
-I am a third-year Computer Science undergrad with a passion for open source, cloud native technologies, and backend development.
+I am a Computer Science undergrad with a passion for software.
 
-I am a Certified Kubernetes Administrator and I am currently working as a SRE at Obmondo. I am a LFX  graduated mentee (Term 2, 2024), before that I used to work as a technical writing intern at GeeksforGeeks, and before that I worked as a web dev intern at Hooman Digital. I am Linux Foundation Scholar, Microsoft Learn Student Ambassador and KubeCon'24 Speaker.
+I am a CKA and currently working as a SRE at Obmondo. I am a LFX  graduated mentee (Term 2, 2024), before that I used to work as a technical writing intern at GeeksforGeeks, and before that I worked as a web dev intern at Hooman Digital. I am Linux Foundation Scholar, Microsoft Learn Student Ambassador and KubeCon'24 Speaker.
 
 My primary tech stack is Golang + Kubernetes. I actively contribute to the CNCF ecosystem, I am a contributor and org member at CNCF KubeEdge, and previously a official contributor at CNCF Kyverno.
 
