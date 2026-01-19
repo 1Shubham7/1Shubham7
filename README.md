@@ -13,8 +13,6 @@ My primary tech stack is Golang + Kubernetes. I actively contribute to the CNCF 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shubham7&label=Profile%20views&color=0e75b6&style=flat" alt="1shubham7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1shubham7" alt="1shubham7" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
