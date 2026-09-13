@@ -4,7 +4,7 @@ This is Shubham,
 
 I am a Site Reliability Engineer and a cloud native developer with a passion for software.
 
-I am a CKA and currently working as an SRE at Obmondo. I am a graduated LFX mentee, before that I worked as a technical writing intern at GeeksforGeeks, and before that as a web dev intern at Hooman Digital. I am a Linux Foundation Scholar, Microsoft Learn Student Ambassador and a Claude for Open Source Program grantee. I love reading about new technologies and trying them out, and I love explaining things, which is what I do on my [blog](https://1shubham7.netlify.app/blog) and [YouTube channel](https://www.youtube.com/@pea-shooter17). I also speak at conferences - KubeCon 2024 and Open Source Summit 2025 so far.
+I am a CKA and currently working as an SRE at Obmondo. I am a graduated LFX mentee, before that I worked as a technical writing intern at GeeksforGeeks, and before that as a web dev intern at Hooman Digital. I am a Linux Foundation Scholar, Microsoft Learn Student Ambassador and a Claude for Open Source Program grantee. I love reading about new technologies and trying them out, and I love explaining things, which is what I do on my [blog](https://1shubham7.netlify.app/blog) and [YouTube channel](https://www.youtube.com/@pea-shooter17). I also love to attend and speak at conferences.
 
 I actively contribute to the CNCF ecosystem, I am a contributor and org member at CNCF KubeEdge and kgateway, and previously a official contributor at CNCF Kyverno.
 
